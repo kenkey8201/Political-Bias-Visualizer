@@ -31,3 +31,7 @@ The Political Bias Visualizer is a web application that analyzes text content to
    git clone https://github.com/yourusername/political-bias-visualizer.git
    cd political-bias-visualizer
 
+### Alternatives
+If you don't want to go through through the work of cloning the entire repo, you can test out the app here:
+
+
