@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Political Bias Visualizer
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -30,3 +31,6 @@ The Political Bias Visualizer is a web application that analyzes text content to
    ```bash
    git clone https://github.com/yourusername/political-bias-visualizer.git
    cd political-bias-visualizer
+=======
+# Political-Bias-Visualizer
+>>>>>>> a199af408ba0ee22872b12e3dc4d766223af9d53
