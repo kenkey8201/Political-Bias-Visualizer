@@ -34,4 +34,4 @@ The Political Bias Visualizer is a web application that analyzes text content to
 ### Alternatives
 If you don't want to go through through the work of cloning the entire repo, you can test out the app here:
 
-
+https://political-bias-visualizer-nrhwvwhkyvt9dum6lwmcip.streamlit.app/
